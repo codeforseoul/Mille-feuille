@@ -1,6 +1,6 @@
 # 밀푀유 / Mille-feuille
 서울에 대한 빵조각을 만들고 쌓아보기
-stack and making pastries about the city, Seoul.
+Stacking and making pastries about the city, Seoul.
 
 
 **S1. 교통과 상권 / Transportation and Commercial district rent**
