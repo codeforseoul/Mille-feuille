@@ -1,2 +1,5 @@
-# pizza
-stack and making a dough about the city, Seoul.
+# Mille-feuille
+stack and making pastries about the city, Seoul.
+
+
+S1. Transportation and store rent
